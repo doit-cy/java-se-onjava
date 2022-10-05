@@ -1,7 +1,7 @@
 package onjava.chapter.one.demo1.core;
 
 /**
- * 访问控制-protected
+ * 访问控制-protected、default-成员
  * private protected public default（主要针对protected、default）
  * 访问修饰符        访问      继承
  * public           所有      可以
