@@ -1,5 +1,5 @@
 package onjava.chapter.one.demo2.core;
-
-protected class ReqControlClass {
-
+// 此处不允许使用修饰符protected
+//protected class ReqControlClass {
+public class ReqControlClass{
 }
